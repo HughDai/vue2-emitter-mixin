@@ -1,2 +1,2 @@
 # vue2-emitter-mixin
-从ElementUI源码中抄的
+:smile:从ElementUI源码中抄的https://github.com/ElemeFE/element/blob/dev/src/mixins/emitter.js
